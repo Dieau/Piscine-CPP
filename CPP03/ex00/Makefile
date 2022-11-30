@@ -8,7 +8,7 @@ CCPURPLE 	=   	\033[35m
 #Get arguments pass
 ARGV		=	$(filter-out $@,$(MAKECMDGOALS))
 NAME 		= 	 ex00.a
-EXEC 		= 	 ClapTrap
+EXEC 		= 	 ClapTrapz
 CC 		= 	 c++
 
 PATH_SRC	=	./srcs/
